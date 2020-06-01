@@ -1,0 +1,1 @@
+Taskkill /F /IM "SPA MANAGEMENT SYSTEM.exe"
